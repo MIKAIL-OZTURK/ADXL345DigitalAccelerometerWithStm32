@@ -27,6 +27,6 @@
 ##### KULLANILAN BİRİMLER:
 * I2C
 
-# ------------------------------------------------------------------------------
+# -----------------------------------------------------------------
 #### The Data Obtained | Elde Edilen Veriler
 ![RESULT](https://user-images.githubusercontent.com/75627147/160672461-6c265e73-e767-4690-bca2-0306678af966.png)
