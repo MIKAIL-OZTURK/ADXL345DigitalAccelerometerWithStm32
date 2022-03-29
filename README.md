@@ -1,6 +1,4 @@
 # ADXL345DigitalAccelerometerWithStm32
- Triaxial angular acceleration measurement with ADXL345
-
 # EN
 
 * Triaxial angular acceleration measurement with ADXL345 using the STM32 HAL library
