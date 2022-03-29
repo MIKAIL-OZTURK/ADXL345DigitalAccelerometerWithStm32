@@ -13,6 +13,8 @@
 
 
 
+
+
 # TR
 
 * STM32 HAL kütüphanesini kullanarak ADXL345 ile üç eksenli açısal ivme ölçümü
